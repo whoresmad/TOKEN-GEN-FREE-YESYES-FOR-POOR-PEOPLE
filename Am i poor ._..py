@@ -4,7 +4,7 @@ from pystyle import Colors, Colorate
 from pystyle import Write
 import random
 import os
-os.system("title Am i poor? ┃ Github: clownist")
+os.system("title Am i poor? ┃ Github: Gingest")
 
 os.system("cls")
 def menu():
@@ -59,7 +59,7 @@ while option != 0:
 
         pass
     elif option ==3:
-        Write.Print(f"Github: clownist\clippy.link: sex\nDiscord Main: Gingest#6666\nServer: discord.gg/vcc", Colors.red_to_purple, interval=0.000001)
+        Write.Print(f"Github: clownist\clippy.link: sex\nDiscord Gιngesτ#0001\nServer: discord.gg/vcc", Colors.red_to_purple, interval=0.000001)
         
         pass
     else:
