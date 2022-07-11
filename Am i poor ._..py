@@ -4,7 +4,7 @@ from pystyle import Colors, Colorate
 from pystyle import Write
 import random
 import os
-os.system("title Am i poor? ┃ By: Hazy")
+os.system("title Am i poor? ┃ By: Karma")
 
 os.system("cls")
 def menu():
